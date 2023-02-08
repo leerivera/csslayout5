@@ -4,3 +4,9 @@ header {
     border: 5px solid purple;
 
 }
+
+section{
+    height: 300px;
+    background: rgb(105, 56,105);
+    border: 5px solid gold;  
+}
