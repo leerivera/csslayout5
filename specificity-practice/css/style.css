@@ -3,6 +3,9 @@ section > h2{
     color: blue;
 }
 /* Please Make only Hufflepuff Gold */
+section > h2 + h2{
+    color: purple;
+}
 
 /* Please select Duck with the highest level of specificity possible */
 
